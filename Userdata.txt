@@ -1,0 +1,7 @@
+NAME : 
+AGE: 
+EMAIL: 
+GENDER Male
+USER TYPE : 
+SUBSCRIBED : NO
+   
